@@ -1,5 +1,5 @@
 console.log("Hello, Work!")
-
+// TODO: написать много нового кода
 //  переменные
 var school = "ШВА"
 let school2 = "ШВА"
